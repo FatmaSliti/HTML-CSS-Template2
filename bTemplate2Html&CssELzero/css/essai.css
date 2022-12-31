@@ -1,0 +1,17 @@
+div {
+  padding: 15px;
+  width: 150px;
+
+}
+
+.one {
+  background-color: red;
+  color: white;
+  position: absolute;
+}
+
+.two {
+  background-color: green;
+  color: white;
+}
+
