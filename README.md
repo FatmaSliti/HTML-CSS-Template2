@@ -9,15 +9,10 @@ this is a responsive HTML/CSS template
 - Easy to customize and extend with your own content.
 - Well-structured HTML and CSS code for maintainability.
 
-## Preview
+## The site
 
-![Screenshot 1](screenshotstemp2/hometemp2.png)
+![Screenshot 1](screenshotstemp2/template2.png)
 
-![Screenshot 2](screenshotstemp2/section2.png)
-
-![Screenshot 3](screenshotstemp2/design.png)
-
-![Screenshot 4](screenshotstemp2/pricing.png)
 
 ## Usage
 
